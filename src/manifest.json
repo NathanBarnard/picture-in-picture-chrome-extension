@@ -1,7 +1,7 @@
 {
-  "name": "Picture-in-Picture Extension (by Google)",
-  "description": "Watch video using Picture-in-Picture",
-  "version": "1.14",
+  "name": "Picture-in-Picture Fix (by CodeSlayer)",
+  "description": "Watch videos in Picture-in-Picture, even on websites that normally disable it.",
+  "version": "1.0.0",
   "icons": {
     "128": "assets/icon128.png"
   },
@@ -24,13 +24,7 @@
       }
     }
   },
-  "permissions": [
-    "contextMenus",
-    "scripting",
-    "storage"
-  ],
-  "host_permissions": [
-    "<all_urls>"
-  ],
+  "permissions": ["contextMenus", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
   "manifest_version": 3
 }
