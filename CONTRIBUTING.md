@@ -1,28 +1,38 @@
-# How to Contribute
+# Contributing
 
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+Contributions are welcome! Whether you're fixing bugs, improving website compatibility, or suggesting new features, your help is appreciated.
 
-## Contributor License Agreement
+## Reporting Issues
 
-Contributions to this project must be accompanied by a Contributor License
-Agreement. You (or your employer) retain the copyright to your contribution;
-this simply gives us permission to use and redistribute your contributions as
-part of the project. Head over to <https://cla.developers.google.com/> to see
-your current agreements on file or to sign a new one.
+If you encounter a bug or find a website where Picture-in-Picture doesn't work as expected, please open a GitHub issue.
 
-You generally only need to submit a CLA once, so if you've already submitted one
-(even if it was for a different project), you probably don't need to do it
-again.
+When reporting an issue, please include:
 
-## Code reviews
+- A description of the problem.
+- Steps to reproduce the issue.
+- The website where the issue occurs, if applicable.
+- Your Chrome version.
+- Any relevant error messages.
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+## Pull Requests
 
-## Community Guidelines
+1. Fork this repository.
+2. Create a branch for your changes.
+3. Make your changes and test them.
+4. Submit a pull request describing what you've changed.
 
-This project follows [Google's Open Source Community
-Guidelines](https://opensource.google.com/conduct/).
+Please keep pull requests focused on a single fix or feature whenever possible.
+
+## Code Guidelines
+
+- Follow the existing code style and structure.
+- Keep changes simple and maintainable.
+- Test changes before submitting a pull request.
+- Avoid introducing unnecessary dependencies.
+- Respect the project's Apache 2.0 license.
+
+## License
+
+By submitting a contribution, you agree that your contribution will be licensed under the [Apache License 2.0](LICENSE).
+
+This project is independently maintained by CodeSlayer and is not affiliated with or endorsed by Google.
